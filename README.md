@@ -1,3 +1,3 @@
-Name:Md.Kowsar Hossain
-Department of Computer Science & Engineering
+Name:Md.Kowsar Hossain <br>
+Department of Computer Science & Engineering <br>
 University of Rajshahi
